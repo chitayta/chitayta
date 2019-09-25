@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,
+
+Tay Chi Ta
+
+Jun 12, 1995
+
+Binh Dinh
+
+Software Engineer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My whole life is about programming and football (soccer). :) 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chitayta@gmail.com](mailto:chitayta@gmail.com)
