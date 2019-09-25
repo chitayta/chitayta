@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi,
 
-Tay Chi Ta
+> <code>Tay Chi Ta</code>
 
-Jun 12, 1995
+> Jun 12, 1995
 
-Binh Dinh
+> Binh Dinh
 
-Software Engineer
+> Software Engineer
+
+> Single
 
 ### More Information
 
