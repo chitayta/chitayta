@@ -9,4 +9,4 @@ Một ngày giữa tháng 2 - 2017...
 
 Thanks,
 
-<b>Hello world, I am stil up and running! :) </b>
+<b>Hello world, I am still up and running! :) </b>
