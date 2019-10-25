@@ -15,7 +15,7 @@ So proud of me, haha :))
 
 The reason why I said this is a very good offer, not only the salary but also their works. 
 The salary can be a good number for a one-year-after-graduation guy like me, you know. I might need have to take another 4 years working very hard with the current job to catch that dream number. :) 
-Regarding the company, a product company. They have a software product/solution for automotive selling management. There're some reasons why I love working for a product company rather than software oursourcing.
+Regarding the company, a product company. They have a software product/solution for automotive selling management. I used to work at a product company, so there're some reasons why I love working for a product company rather than software oursourcing.
 
 Of course, I didn't not accept the invitation immediately and promised to answer him back later when I can manage my current works.
 The biggest reason is the responsibility with the current works, I think, as a FrontEnd developer for a oursourcing project. 
