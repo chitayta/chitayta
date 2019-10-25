@@ -22,7 +22,7 @@ The biggest reason is the responsibility with the current works, I think, as a F
 After a lots of workshops and knowledge training, we only have nearly 1 month for the development of phase 1. 
 Cannot imagine if I say to the manager to leave the company now. Surely they can find a new stronger man to replace me and take my works here but also surely the managers will have a unfriendly look to me. And I don't want to leave by that way.
 
-I am not hurry to leave, because I am always accept any challenges, I believe and very confident that it's not hard for me to have another oppoturnity like that, as long as I nodded in agreement. Anyway, the world has other interesting things for being discovered. I will leave one day... to find out new challenges as I will never satisfy with what I have achieved, you know.
+I am not hurry to leave, because I always accept any challenges, I believe and be very confident that it's not hard for me to have another oppoturnity like that, as long as I nodded in agreement. Anyway, the world has other interesting things for being discovered. I will leave one day... to find out new challenges as I will never satisfy with what I have achieved, you know.
 
 A short story finally led me think about a thing, "Dont let your heart overwhelm your mind", especially at work. Guest why? ;)
 
