@@ -6,24 +6,24 @@ permalink: /about/
 
 
 <code>Tay Chi Ta</code>
-* Jun 12, 1995
-* Binh Dinh
-* Software Engineer
-* Single
+:birthday: Jun 12, 1995
+:house_with_garden: Tay Son, Binh Dinh
+:computer: Software Engineer
+:two_hearts: Single
 
-### More Information
+### About me
 
 My whole life is about programming and football (soccer). :) 
 
-### Interests
+### My interests
 
 <ul>
   <li>Web development</li>
   <li>Artificial Intelligent</li>
   <li>Data Mining</li>
   <li>Programming</li>
-  <li>Any software development</li>
-  <li>...</li>
+  <li>Software development</li>
+  <li>... my beloved one</li>
 </ul>
 ### Contact me
 
